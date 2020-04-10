@@ -2,7 +2,6 @@ apparmor
 apt
 apt-utils
 bash-completion
-btrfs-tools
 command-not-found
 cryptsetup
 friendly-recovery
@@ -23,5 +22,3 @@ tcpdump
 telnet
 ufw
 update-manager-core
-ureadahead
-uuid-runtimes

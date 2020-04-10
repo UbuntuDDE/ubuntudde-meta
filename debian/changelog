@@ -1,3 +1,15 @@
+ubuntudde-meta (1.0-6) focal; urgency=high
+
+  * Removing unavailable packages under standard and desktop.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 13:07:52 +0545
+
+ubuntudde-meta (1.0-5) focal; urgency=high
+
+  * Removed plymouth-theme-ubuntu,adapta-gtk-theme,gnome-screenshot
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 12:02:22 +0545
+
 ubuntudde-meta (1.0-4) focal; urgency=high
 
   * Added ubuntudde-dde-extras to desktop-recommends
