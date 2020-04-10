@@ -1,0 +1,50 @@
+Source: ubuntudde-meta
+Section: metapackages
+Priority: optional
+Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Standards-Version: 4.4.0
+Rules-Requires-Root: no
+Build-Depends: debhelper (>= 12), germinate (>= 2.32)
+Homepage: https://github.com/UbuntuDDE
+
+Package: ubuntudde-minimal
+Architecture: amd64 arm64
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Provides: ubuntudde-standard, ubuntudde-desktop
+Description: Minimal core of Ubuntu DDE
+ This metapackage depends on all of the packages in the Ubuntu DEE minimal system,
+ that is a functional command-line system with the following capabilities:
+ .
+  - Boot
+  - Detect hardware
+  - Connect to a network
+  - Install packages
+  - Perform basic diagnostics
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: ubuntudde-standard
+Architecture: amd64 arm64 armhf
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: CLI-only components of Ubuntu DDE
+ This metapackage depends on most of non-GUI packages from Ubuntu DDE.
+ .
+ This set of packages provides a comfortable command-line Unix-like
+ environment.
+ .
+ It is used to ensure proper upgrades, so it is recommended that it not be
+ removed.
+
+Package: ubuntudde-desktop
+Architecture: amd64 arm64
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Provides: ubuntudde-standard, ubuntudde-minimal, ubuntudde-desktop
+Description: Complete desktop of Ubuntu DDE
+ This metapackage installs the complete Ubuntu DDE desktop.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.

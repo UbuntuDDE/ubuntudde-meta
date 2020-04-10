@@ -1,0 +1,29 @@
+ubuntudde-meta (1.0-4) focal; urgency=high
+
+  * Added ubuntudde-dde-extras to desktop-recommends
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 01:37:46 +0545
+
+ubuntudde-meta (1.0-3) focal; urgency=high
+
+  * Added ubuntudde-plymouth-theme binary packages to desktop and standard
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 05 Apr 2020 12:01:34 +0545
+
+ubuntudde-meta (1.0-2) focal; urgency=high
+
+  * Added ubuntudde-icon-theme
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 03 Apr 2020 10:28:05 +0545
+
+ubuntudde-meta (1.0-1) focal; urgency=high
+
+  * Added ubuntudde-dde to Desktop
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 31 Mar 2020 23:31:55 +0545
+
+ubuntudde-meta (1.0) focal; urgency=high
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 31 Mar 2020 18:42:02 +0545
