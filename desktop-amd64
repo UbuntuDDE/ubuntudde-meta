@@ -79,9 +79,6 @@ netbase
 netcat-openbsd
 netplan.io
 net-tools
-network-manager
-network-manager-config-connectivity-ubuntu
-network-manager-pptp-gnome
 openprinting-ppds
 orca
 p7zip-full
