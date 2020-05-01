@@ -1,6 +1,6 @@
-ubuntudde-meta (1.0-8) focal; urgency=high
+ubuntudde-meta (1.0-9) focal; urgency=high
 
-  * Added grub-themes-ubuntudde
+  * Added grub-themes-ubuntudde and ubuntudde-default-settings
 
  -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Mon, 27 Apr 2020 15:34:42 +0545
 
