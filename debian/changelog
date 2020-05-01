@@ -1,3 +1,15 @@
+ubuntudde-meta (1.0-8) focal; urgency=high
+
+  * Added grub-themes-ubuntudde
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Mon, 27 Apr 2020 15:34:42 +0545
+
+ubuntudde-meta (1.0-7) focal; urgency=high
+
+  * Removed network-manager and added adapta-gtk-theme
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 21 Apr 2020 23:50:21 +0545
+
 ubuntudde-meta (1.0-6) focal; urgency=high
 
   * Removing unavailable packages under standard and desktop.

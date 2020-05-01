@@ -30,6 +30,7 @@ fonts-ubuntu
 foomatic-db-compressed-ppds
 ghostscript-x
 gnome-menus
+grub-themes-ubuntudde
 gstreamer1.0-alsa
 gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
@@ -117,6 +118,7 @@ ubuntudde-dde
 ubuntudde-icon-theme
 ubuntudde-plymouth-logo
 ubuntudde-plymouth-text
+ubuntudde-default-settings
 udev
 unzip
 user-setup

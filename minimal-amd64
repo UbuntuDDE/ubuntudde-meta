@@ -7,6 +7,7 @@ debconf
 debconf-i18n
 eject
 gcc
+grub-themes-ubuntudde
 init
 initramfs-tools
 iproute2
