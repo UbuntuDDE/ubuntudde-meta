@@ -37,7 +37,6 @@ gstreamer1.0-pulseaudio
 gtk-im-libthai
 gvfs-bin
 gvfs-fuse
-htop
 hunspell-en-au
 hunspell-en-ca
 hunspell-en-gb
@@ -103,7 +102,6 @@ resolvconf
 rfkill
 rsync
 sensible-utils
-slick-greeter
 software-properties-gtk
 speech-dispatcher
 spice-vdagent
@@ -114,10 +112,7 @@ ubuntu-drivers-common
 ubuntu-keyring
 ubuntu-minimal
 ubuntudde-dde
-ubuntudde-icon-theme
 ubuntudde-plymouth-logo
-ubuntudde-plymouth-text
-ubuntudde-default-settings
 udev
 unzip
 user-setup
@@ -125,7 +120,6 @@ vim-tiny
 whiptail
 wireless-tools
 wpasupplicant
-xcursor-themes
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
