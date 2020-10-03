@@ -1,3 +1,10 @@
+ubuntudde-meta (2.0.0-1) groovy; urgency=medium
+
+  * Prepare for groovy release.
+  * Removed some packages from the list.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 20:02:24 +0545
+
 ubuntudde-meta (1.0-9) focal; urgency=high
 
   * Added grub-themes-ubuntudde and ubuntudde-default-settings
