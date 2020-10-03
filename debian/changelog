@@ -1,4 +1,4 @@
-ubuntudde-meta (2.0.0-1) groovy; urgency=medium
+ubuntudde-meta (2.2.0-1) groovy; urgency=medium
 
   * Prepare for groovy release.
   * Removed some packages from the list.
