@@ -6,6 +6,7 @@ avahi-daemon
 bluez
 bluez-cups
 brltty
+celluloid
 cups
 cups-bsd
 cups-client
@@ -15,11 +16,9 @@ dmz-cursor-theme
 file-roller
 firefox
 friendly-recovery
-gedit
 gimp
 gnome-2048
 gnome-bluetooth
-gnome-calculator
 gnome-chess
 gnome-font-viewer
 gnome-mahjongg
@@ -75,6 +74,7 @@ libreoffice-writer
 neofetch
 orca
 p7zip-full
+preload
 packagekit
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
@@ -85,6 +85,7 @@ software-properties-common
 software-properties-gtk
 speech-dispatcher
 synaptic
+system-config-printer
 thunderbird
 ubuntudde-dde-extras
 update-notifier

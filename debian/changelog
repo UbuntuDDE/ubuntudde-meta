@@ -1,3 +1,16 @@
+ubuntudde-meta (2.2.2-1) groovy; urgency=medium
+
+  * Add preload, celluloid.
+  * Remove other apps.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 15:06:55 +0545
+
+ubuntudde-meta (2.2.1-1) groovy; urgency=medium
+
+  * Replace gvfs-bin with libglib2.0-bin.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 21:15:09 +0545
+
 ubuntudde-meta (2.2.0-1) groovy; urgency=medium
 
   * Prepare for groovy release.
