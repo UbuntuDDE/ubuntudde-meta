@@ -1,3 +1,15 @@
+ubuntudde-meta (2.2.4) impish; urgency=medium
+
+  * Drop atril and file-roller.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 14 Nov 2021 00:07:14 +0545
+
+ubuntudde-meta (2.2.3) impish; urgency=medium
+
+  * Release to impish.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 01 Oct 2021 20:31:57 +0545
+
 ubuntudde-meta (2.2.2-1) groovy; urgency=medium
 
   * Add preload, celluloid.
