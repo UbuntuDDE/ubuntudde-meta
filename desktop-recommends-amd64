@@ -1,11 +1,9 @@
 acpi-support
-adapta-gtk-theme
 avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
 brltty
-celluloid
 cups
 cups-bsd
 cups-client
@@ -15,14 +13,6 @@ dmz-cursor-theme
 firefox
 friendly-recovery
 gimp
-gnome-2048
-gnome-bluetooth
-gnome-chess
-gnome-font-viewer
-gnome-mahjongg
-gnome-software
-gnome-software-plugin-snap
-gnome-sudoku
 hunspell-de-at-frami
 hunspell-de-ch-frami
 hunspell-de-de-frami

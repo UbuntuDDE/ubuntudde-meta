@@ -1,3 +1,21 @@
+ubuntudde-meta (2.2.6-1) jammy; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 01 Sep 2022 23:35:14 +0545
+
+ubuntudde-meta (2.2.5-1) jammy; urgency=medium
+
+  * Remove gnome based packages.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 01 Sep 2022 23:27:50 +0545
+
+ubuntudde-meta (2.2.4-1) jammy; urgency=medium
+
+  * Upload to jammy.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 02 Aug 2022 15:50:51 +0545
+
 ubuntudde-meta (2.2.4) impish; urgency=medium
 
   * Drop atril and file-roller.
